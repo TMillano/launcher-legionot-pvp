@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
     }
   ],
   "clientFolder": "LegionOT",
-  "newClientUrl": "https://github.com/TMillano/client-legionot-pvp/archive/refs/heads/main.zip",
+  "newClientUrl": "http://104.234.63.166/download/LEGIONOT-PVP.zip",
   "clientExecutable": "client.exe"
 }
